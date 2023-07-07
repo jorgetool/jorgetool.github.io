@@ -1,9 +1,5 @@
-  [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.depplinksv2",
-      "sha256_cert_fingerprints":
-      ["9F:D8:C1:72:91:B3:A3:BF:B4:B7:C5:8F:81:38:60:88:2E:7C:A9:B5:46:78:45:32:3F:8F:C3:79:47:7F:8B:C6"]
-    }
-  }]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.depplinksv2",
+               "sha256_cert_fingerprints": ["9F:D8:C1:72:91:B3:A3:BF:B4:B7:C5:8F:81:38:60:88:2E:7C:A9:B5:46:78:45:32:3F:8F:C3:79:47:7F:8B:C6"] }
+}]
